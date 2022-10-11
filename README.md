@@ -3,7 +3,7 @@
 
 ![messagif](https://user-images.githubusercontent.com/83016833/192207773-bec89056-f2c4-4917-b83c-9a23b2078144.gif)
 
-- I’m currently honing my React skills, you  can reach me on Facebook  https://www.facebook.com/SarcasmIzLit
+- Busy with Thesis, don't Bother https://www.facebook.com/SarcasmIzLit
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=Ozzie-code-alt"
