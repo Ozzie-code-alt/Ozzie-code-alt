@@ -36,4 +36,3 @@
     <img alt="PYCHARM" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
      <img alt="REPLT" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ozzie-Code-Alt=compact"/>
