@@ -4,7 +4,7 @@
 ![messagif](https://user-images.githubusercontent.com/83016833/192207773-bec89056-f2c4-4917-b83c-9a23b2078144.gif)
 
 - Busy with Thesis, don't Bother https://www.facebook.com/SarcasmIzLit
-<p align="left">
+<p align="Center">
   <img
     src="https://komarev.com/ghpvc/?username=Ozzie-code-alt"
     alt="Ozzie-code-alts"
@@ -36,3 +36,5 @@
     <img alt="VS" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
     <img alt="PYCHARM" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
      <img alt="REPLT" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
