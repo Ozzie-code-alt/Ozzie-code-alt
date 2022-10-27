@@ -1,8 +1,8 @@
 
 
-
+<p align = "Center">
 ![messagif](https://user-images.githubusercontent.com/83016833/192207773-bec89056-f2c4-4917-b83c-9a23b2078144.gif)
-
+</p>
 - Busy with Thesis, don't Bother https://www.facebook.com/SarcasmIzLit
 <p align="Center">
   <img
