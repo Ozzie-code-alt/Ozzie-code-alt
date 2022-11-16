@@ -6,12 +6,7 @@
 for other or important inquires tho you can Reach Me at ~~
 - Facebook: https://www.facebook.com/SarcasmIzLit
 - Linkedin: https://www.linkedin.com/in/justin-r-santos/
-<p align="Left">
-  <img
-    src="https://komarev.com/ghpvc/?username=Ozzie-code-alt"
-    alt="Ozzie-code-alts"
-  />
-</p>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -38,4 +33,9 @@ for other or important inquires tho you can Reach Me at ~~
     <img alt="VS" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
     <img alt="PYCHARM" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
      <img alt="REPLT" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
-
+<p align="Left">
+  <img
+    src="https://komarev.com/ghpvc/?username=Ozzie-code-alt"
+    alt="Ozzie-code-alts"
+  />  --- View Count
+</p>
