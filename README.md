@@ -2,7 +2,7 @@
 
 ![messagif](https://user-images.githubusercontent.com/83016833/192207773-bec89056-f2c4-4917-b83c-9a23b2078144.gif)
 
-# Busy with Microsoft Imagine Cup and Upcomming DOST Hack ..
+# Busy with Microsoft Imagine Cup and Upcomming DOST Hack ...
 for other or important inquires tho you can Reach Me at ~~
 - Facebook: https://www.facebook.com/SarcasmIzLit
 - Linkedin: https://www.linkedin.com/in/justin-r-santos/
