@@ -4,7 +4,7 @@
   <samp>
     My name is <em>Justin</em>. I am a University Student 'n' Web developer... 
   <br/> Javascript enthusiast... ReactJs lover. TensorFlow addict. 
-    <br/> (<em>ex</em>)Fulltime student.
+    <br/> Fulltime student.
       <br/>
 Browsing Reddit for fun, Reading Books,
           <br/>
