@@ -95,5 +95,3 @@ Groovy       28 mins         █░░░░░░░░░░░░░░░░
 
 </p>
 
----
-⭐️ From [alexnaiman](https://github.com/alexnaiman)
