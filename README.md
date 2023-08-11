@@ -35,19 +35,13 @@ continuously learning, wanting to help the community
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> anything, I am really a talkative person, happy to help 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
 <p align="center">
-  <a href="https://twitter.com/naiman_alex">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px" style="margin: 5px;" />
-  </a>
-  <a href="https://www.instagram.com/alex.naiman.4/">
+  <a href="https://www.instagram.com/mr.backtodecember/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
   </a>
-  <a href="https://www.linkedin.com/in/alexandru-nicolae-naiman-28b60a137/">
+  <a href="https://www.linkedin.com/in/justin-r-santos/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
   </a>
-  <a href="https://discord.gg/KgF4WGf">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/discord.png" height="35px" style="margin: 5px;" />
-  </a>
-  <a href="mailto:alex.naiman.4@gmail.com">
+  <a href="mailto:justinsantos731@gmail.com">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
   </a>
 </p>
