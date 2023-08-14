@@ -65,9 +65,9 @@ continuously learning, wanting to help the community
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
 <p align="right">
-<img align="left" src="https://github-readme-stats-sigma-fivevercel.app/api?username=Ozzie-code-alt&theme=tokyonight&show_icons=true" />
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ozzie-code-alt&theme=tokyonight&show_icons=true" />
 
-<img  float="right" src="https://github-readme-stats-sigma-fivevercel.app/api/top-langs/?username=Ozzie-code-alt&theme=tokyonight&show_icons=true" />
+<img  float="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ozzie-code-alt&theme=tokyonight&show_icons=true" />
 
 </p>
 
