@@ -8,7 +8,7 @@
       <br/>
 Browsing Reddit for fun, Reading Books,
           <br/>
-continuously learning, wanting to help the community
+continuously learning, feeding strays, and wanting to help the pet community
   </samp>
   <br/>
   <br/>
