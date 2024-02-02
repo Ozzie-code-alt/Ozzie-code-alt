@@ -2,7 +2,7 @@
 
 <p align="center" >
   <samp>
-    My name is <em>Justin</em>. I am a University Student 'n' Web developer... 
+    My name is <em>Justin</em>. I am a University Student 'n' Software Engineer | Web developer... 
   <br/> Javascript enthusiast... ReactJs lover. TensorFlow addict. 
     <br/> Fulltime student.
       <br/>
