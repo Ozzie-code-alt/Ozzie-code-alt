@@ -53,14 +53,18 @@ continuously learning, feeding strays, and wanting to help the pet community
      <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/csharp.svg" height="35px" style="vertical-align:top margin:6px 4px" />
       <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="35px" style="vertical-align:top margin:6px 4px" />
         <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-         <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/java.svg" height="35px" style="vertical-align:top margin:6px 4px" />
           <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/nodejs.svg" height="35px" style="vertical-align:top margin:6px 4px" />
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="35px" style="vertical-align:top margin:6px 4px" />
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/sass.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/unity.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-      
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+              
              
 </p>
 
