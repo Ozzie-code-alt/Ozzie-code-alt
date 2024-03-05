@@ -54,7 +54,18 @@ continuously learning, feeding strays, and wanting to help the pet community
              <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
              <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
              <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Yarn-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
               
              
 </p>
