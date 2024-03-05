@@ -24,7 +24,7 @@ continuously learning, feeding strays, and wanting to help the pet community
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="30px" /> GO  
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="30px" /> Docker
-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Astro.svg" height="30px" /> Astro
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postgres.svg" height="30px" /> Postgres
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" height="35px" /> Next JS
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I’m looking to collaborate on ...
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" height="30px" /> any open source project
