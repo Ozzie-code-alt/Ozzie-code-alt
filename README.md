@@ -22,7 +22,7 @@ continuously learning, feeding strays, and wanting to help the pet community
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="30px" />  Google Developer stuffs with some friends
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="30px" />  Prometheus Tasks with co-workers
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="30px" /> GO  
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" width="30px" /> Nest JS  
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="30px" /> Docker
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" height="30px" /> Postgres
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" height="35px" /> Next JS
