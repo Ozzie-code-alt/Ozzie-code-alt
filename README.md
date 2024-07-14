@@ -74,7 +74,7 @@ continuously learning, feeding strays, and wanting to help the pet community
 <p align="right">
 <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ozzie-code-alt&theme=tokyonight&show_icons=true" />
 
-<img  float="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ozzie-code-alt&theme=tokyonight&show_icons=true" />
+<img  float="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=&theme=tokyonight&show_icons=true" />
 
 </p>
 
