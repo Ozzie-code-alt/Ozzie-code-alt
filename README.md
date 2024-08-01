@@ -2,8 +2,8 @@
 
 <p align="center" >
   <samp>
-    My name is <em>Justin</em>. I am a University Student 'n' Software Engineer | Web developer | Mobile Dev... 
-  <br/> Javascript enthusiast... ReactJs lover. TensorFlow addict. 
+    My name is <em>Justin</em>. I am a  Software Engineer | Web developer | Mobile Dev... 
+  <br/> Javascript enthusiast... React / Next Js lover. TensorFlow addict. 
     <br/> Fulltime student.
       <br/>
 Browsing Reddit for fun, Reading Books,
