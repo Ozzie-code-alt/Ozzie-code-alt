@@ -4,7 +4,6 @@
   <samp>
     My name is <em>Justin</em>. I am a  Software Engineer | Web developer | Mobile Dev... 
   <br/> Javascript enthusiast... React / Next Js lover. TensorFlow addict. 
-    <br/> Fulltime student.
       <br/>
 Browsing Reddit for fun, Reading Books,
           <br/>
