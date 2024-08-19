@@ -1,4 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
+[![committers.top badge](https://user-badge.committers.top/philippines/USERNAME.svg)](https://user-badge.committers.top/philippines/Ozzie-code-alt)
+
 
 <p align="center" >
   <samp>
@@ -14,7 +16,9 @@ continuously learning, feeding strays, and wanting to help the pet community
   <br/>
 </p>
 
+
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
+
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px" />  Improving myself
