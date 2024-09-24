@@ -28,7 +28,7 @@ continuously learning, feeding strays, and wanting to help the pet community
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" width="30px" /> Nest JS  
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="30px" /> Docker
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" height="30px" /> Postgres
-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" height="35px" /> Next JS
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" height="35px" /> AWS
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I’m looking to collaborate on ...
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" height="30px" /> any open source project
 
