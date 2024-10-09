@@ -5,7 +5,7 @@
 <p align="center" >
   <samp>
     My name is <em>Justin</em>. I am a  Software Engineer | Web developer | Mobile Dev... 
-  <br/> Javascript enthusiast... React / Next Js lover. TensorFlow addict. 
+  <br/> Javascript enthusiast... Full-time React / Next.js builder, Part-time TensorFlow tamer, .NET architect when no one's looking 
       <br/>
 Browsing Reddit for fun, Reading Books,
           <br/>
@@ -55,7 +55,7 @@ continuously learning, feeding strays, and wanting to help the pet community
 <p align="center">
              <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
              <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
              <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
              <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
              <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
@@ -70,6 +70,15 @@ continuously learning, feeding strays, and wanting to help the pet community
              <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
              <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
              <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Yarn-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DENO-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
               
              
 </p>
