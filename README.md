@@ -26,10 +26,10 @@ continuously learning, feeding strays, and wanting to help the pet community
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="30px" />  BloomAnalytics things with Co-Workers
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="30px" /> ASP - Backend - Recap  
-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="30px" /> Docker
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Terraform-Dark.svg" height="30px" /> Terraform
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DENO-Dark.svg" height="30px" /> Deno
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" height="30px" /> Postgres - DB
-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" height="35px" /> AWS
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" height="35px" /> Kubernetes
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I’m looking to collaborate on ...
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" height="30px" /> any open source project
 
@@ -71,6 +71,7 @@ continuously learning, feeding strays, and wanting to help the pet community
              <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
              <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Yarn-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
              <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+                <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="35px" style="vertical-align:top margin:6px 4px" />
              <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
              <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
              <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
